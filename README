@@ -1,0 +1,1 @@
+Extract all 'To:' fields from the Sent folder and create an LDIF file to upload into LDAP server
